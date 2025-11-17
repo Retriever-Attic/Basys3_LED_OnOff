@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Wed May 21 22:58:25 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Mon Nov 17 19:37:24 2025
+# Process ID         : 16780
+# Current directory  : /home/jaejun/LED_ON_OFF/LED_ON_OFF.runs/impl_1
+# Command line       : vivado -log LED.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source LED.tcl -notrace
+# Log file           : /home/jaejun/LED_ON_OFF/LED_ON_OFF.runs/impl_1/LED.vdi
+# Journal file       : /home/jaejun/LED_ON_OFF/LED_ON_OFF.runs/impl_1/vivado.jou
+# Running On         : jaejun-Victus-by-HP-Gaming-Laptop-16-r0xxx
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 24.04.3 LTS
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i7-13700HX
+# CPU Frequency      : 2769.016 MHz
+# CPU Physical cores : 16
+# CPU Logical cores  : 24
+# Host memory        : 41729 MB
+# Swap memory        : 8589 MB
+# Total Virtual      : 50319 MB
+# Available Virtual  : 42318 MB
+#-----------------------------------------------------------
+source LED.tcl -notrace
